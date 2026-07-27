@@ -17,6 +17,7 @@
 ~~~text
 maintain-project-memory/
 ├── README.md
+├── LICENSE
 ├── adapters/
 │   ├── generic-project-instructions.md
 │   └── manual-session-prompt.md
@@ -100,3 +101,7 @@ python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py \
 ~~~
 
 第二条命令中的校验器路径可替换为本机 Skill Creator 提供的路径。
+
+## License
+
+本项目采用 [MIT License](LICENSE)。允许使用、复制、修改和再发布，但需保留原始版权声明和许可证文本。
