@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "language": "auto",
+  "update_mode": "auto",
+  "storage_mode": "local-private",
+  "publish_policy": "explicit-opt-in",
+  "max_active_log_entries": 30
+}

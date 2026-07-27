@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Project Memory"
+  short_description: "Keep verified project context and change history"
+  default_prompt: "Use $maintain-project-memory to load and maintain verified project memory for this coding task."
